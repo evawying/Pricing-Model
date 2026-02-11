@@ -1,0 +1,16 @@
+# Core Interactive UI
+ipywidgets
+widgetsnbextension
+
+# Data Analysis (Commonly used with dropdowns)
+pandas
+numpy
+
+# Visualization (Pick the one you are using)
+matplotlib
+seaborn
+plotly
+bokeh
+
+# If you are using Voila to hide the code
+voila
